@@ -1,0 +1,4 @@
+lembre se de mudar em seu CFG o nome da data base para ->  vrp <- se ja estiver tudo ok
+
+coloque essas resources no start!
+troque o conector para esse oxmysql na pasta sql
